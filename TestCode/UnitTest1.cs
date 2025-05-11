@@ -30,15 +30,15 @@ namespace TestCode
         [Fact]
         public void TestLargeArray()
         {
-            int[] numbers = new int[1000];
+            int[] numbers = new int[1000000];
             var random = new Random();
             for (int i = 0; i < numbers.Length; i++)
             {
                 numbers[i] = random.Next(1000, 1000000);
             }
 
-            numbers[0] = -100;
-            numbers[1] = -50;
+            numbers[random.Next(1, 50000)] = -100;
+            numbers[random.Next(50001, 1000000)] = -50;
 
             int result = SumClass.SumTwoMinimals(numbers);
             Assert.Equal(-150, result);

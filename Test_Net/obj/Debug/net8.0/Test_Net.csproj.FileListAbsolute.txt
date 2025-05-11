@@ -26,3 +26,4 @@ D:\Projects\VSProjects\Test_NET_Project\Test_Net\obj\Debug\net8.0\refint\Test_Ne
 D:\Projects\VSProjects\Test_NET_Project\Test_Net\obj\Debug\net8.0\Test_Net.pdb
 D:\Projects\VSProjects\Test_NET_Project\Test_Net\obj\Debug\net8.0\Test_Net.genruntimeconfig.cache
 D:\Projects\VSProjects\Test_NET_Project\Test_Net\obj\Debug\net8.0\ref\Test_Net.dll
+D:\Projects\VSProjects\Test_NET_Project\Test_Net\obj\Debug\net8.0\Test_Net.sourcelink.json

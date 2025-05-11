@@ -208,3 +208,4 @@ D:\Projects\VSProjects\Test_NET_Project\TestCode\obj\Debug\net8.0\refint\TestCod
 D:\Projects\VSProjects\Test_NET_Project\TestCode\obj\Debug\net8.0\TestCode.pdb
 D:\Projects\VSProjects\Test_NET_Project\TestCode\obj\Debug\net8.0\TestCode.genruntimeconfig.cache
 D:\Projects\VSProjects\Test_NET_Project\TestCode\obj\Debug\net8.0\ref\TestCode.dll
+D:\Projects\VSProjects\Test_NET_Project\TestCode\obj\Debug\net8.0\TestCode.sourcelink.json
